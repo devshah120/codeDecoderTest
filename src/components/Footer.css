@@ -1,0 +1,19 @@
+footer {
+    background-color: #f4f4f4;
+    padding: 20px;
+  }
+  .contact, .subscribe, .legal {
+    margin: 20px 0;
+  }
+  .subscribe form {
+    display: flex;
+    flex-direction: column;
+  }
+  .subscribe input {
+    margin: 10px 0;
+  }
+  .subscribe button {
+    padding: 10px;
+    font-size: 1rem;
+  }
+  

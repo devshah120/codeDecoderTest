@@ -1,0 +1,14 @@
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+  }
+  nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+  }
+  nav ul li {
+    cursor: pointer;
+  }
+  
